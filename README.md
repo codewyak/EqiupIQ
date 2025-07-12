@@ -1,0 +1,2 @@
+# EqiupIQ
+Landing Page
