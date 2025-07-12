@@ -1,2 +1,2 @@
-# EqiupIQ
+# EquipIQ
 Landing Page
