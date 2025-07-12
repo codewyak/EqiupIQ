@@ -7,25 +7,26 @@ The EquipIQ.ai landing page is a clean, conversion-focused web interface designe
 ✅ Key Sections:
 
 1. Hero Header
-	•	Clear headline: “AI-Powered Equipment Rental Optimization for Construction Fleets”
+	•	Clear Headline: “Know Your Fleet, Power The Build”
+	•	Headline: AI-Driven Fleet Performance Optimization Software for Equipment Rental Companies 
 	•	Subheadline: “EquipIQ.ai helps rental companies and fleets maximize utilization, minimize downtime, boost revenue–all through predictive analytics and real-time insights in one easy dashboard.”
 	•	Primary CTA: [Request Early Access]
 
-2. Problem → Solution Framing
+3. Problem → Solution Framing
 	•	Brief breakdown of common issues: idle time, double-bookings, scheduling chaos
 	•	Quick visual showing “Before vs After EquipIQ.ai”
 
-3. Core Features Preview
+4. Core Features Preview
 	•	Fleet dashboard
 	•	Idle machine alerts
 	•	Jobsite scheduling calendar
 	•	Simple reassign tool
 
-4. Testimonials / Case Study Placeholder
+5. Testimonials / Case Study Placeholder
 	•	Space for early feedback from pilot users
 	•	“We reassigned 3 machines in our first week and saved $4,000.”
 
-5. Call to Action
+6. Call to Action
 	•	Email capture for early access
 	•	Optional calendar link to book a discovery call
 
